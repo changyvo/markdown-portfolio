@@ -1,0 +1,3 @@
+- [ ] Finish :heart:
+- [ ] Shop :smile:
+- [ ] Cook :dog:
